@@ -16,10 +16,7 @@ public class NewSample4 {
 		driver.get("https://google.com/");
 		Thread.sleep(60000);
 		driver.quit();
-		System.out.println("test1");
-		//System.out.println("test1");
-		//System.out.println("test1");
-		System.out.println("test1");
+		
 	}
 
 }
